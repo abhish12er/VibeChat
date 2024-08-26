@@ -11,7 +11,7 @@ Features
     Responsive Design: Optimized for both desktop and mobile devices.
 
 Tech Stack
-    Frontend: HTML, CSS, JavaScript
+    Frontend: HTML, CSS, JavaScript, XML
     Backend: PHP
     Database: MySQL
 
