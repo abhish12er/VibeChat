@@ -16,12 +16,12 @@ Tech Stack
     Database: MySQL
 
 Screenshots
-Chat Interface
+<h4>Chat Interface</h4>
 <img src="images/regi.png" alt="Chat Screenshot" width="600"><br><br>
 
-User Profiles
-<img src="images/inside.png" alt="Profile Screenshot" width="600"><br><br>
-2.
+<h4>User Profiles</h4>
+<img src="images/inside.png" alt="Profile Screenshot" width="600">
+<h4>2.</h4>
 <img src="iimages/inside.png" alt="Profile Screenshot" width="600">
 
  Installation
