@@ -22,7 +22,7 @@ Screenshots
 <h4>User Profiles</h4>
 <img src="images/inside.png" alt="Profile Screenshot" width="600">
 <h4>2.</h4>
-<img src="iimages/inside.png" alt="Profile Screenshot" width="600">
+<img src="images/iinside.png" alt="Profile Screenshot" width="600">
 
  Installation
 
