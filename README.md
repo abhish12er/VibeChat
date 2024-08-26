@@ -1,6 +1,6 @@
 # VibeChat
 
-<img src="gitimages/Screenshot (324)" alt="VibeChat Logo" width="200">
+<img src="images/login.png" alt="VibeChat Logo" width="200">
 
 VibeChat is a real-time chat application designed to enhance communication and bring users together. With its user-friendly interface and smooth functionality, VibeChat allows users to chat seamlessly across different platforms.
 
