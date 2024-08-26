@@ -17,10 +17,12 @@ Tech Stack
 
 Screenshots
 Chat Interface
-<img src="path-to-chat-screenshot" alt="Chat Screenshot" width="600">
+<img src="images/regi.png" alt="Chat Screenshot" width="600">
 
 User Profiles
-<img src="path-to-profile-screenshot" alt="Profile Screenshot" width="600">
+<img src="images/inside.png" alt="Profile Screenshot" width="600">
+2.
+<img src="iimages/inside.png" alt="Profile Screenshot" width="600">
 
  Installation
 
